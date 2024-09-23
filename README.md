@@ -29,7 +29,5 @@
     </a>
   </div>
 </div>
-
-
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rathanon-dev/&title=Profile%20Views)
-
+<br>
+<a href="https://u8views.com/github/rathanon-dev"><img src="https://u8views.com/api/v1/github/profiles/182455537/views/day-week-month-total-count.svg"></a>
