@@ -2,6 +2,7 @@
 # สวัสดีครับ ผมชื่อ รฐนนท์ แสงรุ่งสว่าง 👋
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.md)
 [![TH](https://img.shields.io/badge/lang-th-green.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.th.md)
+
 ผมเป็น **วิศวกรคอมพิวเตอร์** ที่มีความสนใจในด้านเทคโนโลยี การเขียนโปรแกรม และอิเล็กทรอนิกส์ ตอนนี้กำลังมองหางานในด้าน **วิศวกรรมซอฟต์แวร์** **วิศวกรรมฮาร์ดแวร์** หรือ **งานบำรุงรักษาและการพัฒนา Production** ซึ่งผมมีทักษะในการใช้ภาษาโปรแกรม เช่น C#, C/C++, Python และ JavaScript รวมทั้งประสบการณ์ในด้านการพัฒนาแอปพลิเคชันเว็บ การออกแบบวงจรไฟฟ้า และอื่นๆ
 
 ## ข้อมูลเกี่ยวกับผม
