@@ -42,7 +42,7 @@
 
 ## ติดต่อผม
 
-- 📧 อีเมล: [minaseyux@gmail.com](mailto:minaseyux@gmail.com)
+- 📧 อีเมล: [rathanon.dev@gmail.com](mailto:rathanon.dev@gmail.com)
 - 🌐 GitHub: [github.com/rathanon-dev](https://github.com/rathanon-dev)
 - 🔗 LinkedIn: [ratanon](www.linkedin.com/in/ratanon-sangrungsawang-233348327)
 
