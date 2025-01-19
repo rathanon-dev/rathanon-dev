@@ -1,6 +1,6 @@
 # Hello, I'm Jame Rathanon 👋
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.md)
-[![TH](https://img.shields.io/badge/lang-th-green.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README-TH.md)
+[![TH](https://img.shields.io/badge/lang-th-green.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.th.md)
 
 I'm a **Computer Engineer** with a passion for technology, programming, and electronics. I’m currently seeking opportunities in the field of **Software Engineering**, **Hardware Engineering**, or **Maintenance and Deployment Production**. I am highly skilled in programming languages such as C#, C/C++, Python, and JavaScript, with practical experience in web application development, circuit design, and more.
 
