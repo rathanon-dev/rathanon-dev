@@ -1,5 +1,56 @@
-- 👋 Hi, I’m @rathanon-dev
-  
+# Hello, I'm Jame Rathanon 👋
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.md)
+[![TH](https://img.shields.io/badge/lang-th-green.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README-TH.md)
+
+I'm a **Computer Engineer** with a passion for technology, programming, and electronics. I’m currently seeking opportunities in the field of **Software Engineering**, **Hardware Engineering**, or **Maintenance and Deployment Production**. I am highly skilled in programming languages such as C#, C/C++, Python, and JavaScript, with practical experience in web application development, circuit design, and more.
+
+## About Me
+
+- 🔧 I have experience in **Software Engineering**, including web development and backend services.
+- 🛠️ I'm proficient with tools like **Node.js**, **Next.js**, **React.js**, and **MySQL**.
+- 💡 I am familiar with **electronic circuits** and modules like **ESP32** and **STM32**.
+- 🚀 I enjoy learning new technologies and improving my programming and problem-solving skills.
+
+## Skills
+
+- **Programming Languages**: C#, C/C++, Python, JavaScript, SQL
+- **Web Development**: Node.js, Next.js, React.js
+- **Database**: MySQL
+- **Electronics**: Circuit design, working with ESP32, STM32, etc.
+- **Other Skills**: Motorcycle driving, Basic Linux, Docker, VM (Cloud VPS)
+
+## Education
+
+- **Bachelor's Degree in Computer Engineering** , King Mongkut's Institute of Technology Ladkrabang
+- **Associate Degree in Computer Technology**, Lopburi Technical College
+- **Vocational Certificate in Electronics**, Lopburi Technical College
+
+## Work Experience
+
+### Intern, Primus Co., Ltd. (April 2019 - September 2019)
+- Developed and maintained software solutions, assisted with various programming tasks.
+- Gained hands-on experience in coding and problem-solving in a professional environment.
+
+### ABU Robocon 2020 - Team LB.TECH ROBOT
+- Competed in ABU Robocon 2020, responsible for programming the robot and web applications using **Next.js** for the frontend and **Express.js** for API connections to databases.
+
+## Projects
+
+- **Web Application Development**: Built and deployed web apps using Next.js and Express.js.
+- **Electronics Projects**: Designed circuits and worked with modules such as ESP32, STM32.
+
+## Contact Me
+
+- 📧 Email: [minaseyux@gmail.com](mailto:minaseyux@gmail.com)
+- 🌐 GitHub: [github.com/rathanon-dev](https://github.com/rathanon-dev)
+- 🔗 LinkedIn: [ratanon](www.linkedin.com/in/ratanon-sangrungsawang-233348327)
+
+---
+
+Looking forward to collaborating on new projects and exploring opportunities in **Software Engineering** and **Electronics**.
+
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=%20rathanon-dev&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)](https://git.io/streak-stats)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathanon-dev&show_icons=true)
