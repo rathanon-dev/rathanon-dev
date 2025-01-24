@@ -1,4 +1,4 @@
-# Hello, I'm Jame Rathanon 👋
+# Hello, I'm Jame Rathanon Sangrungsawang 👋
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.md)
 [![TH](https://img.shields.io/badge/lang-th-green.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.th.md)
 
