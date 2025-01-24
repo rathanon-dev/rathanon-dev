@@ -50,6 +50,7 @@
 
 หวังว่าจะได้ร่วมงานหรือทำโครงการใหม่ๆ และสำรวจโอกาสในด้าน **วิศวกรรมซอฟต์แวร์** และ **อิเล็กทรอนิกส์**
 
+---
 [![GitHub Streak](https://streak-stats.demolab.com?user=%20rathanon-dev&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)](https://git.io/streak-stats)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathanon-dev&show_icons=true)
