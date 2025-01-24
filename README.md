@@ -1,4 +1,4 @@
-# Hello, I'm Jame Rathanon Sangrungsawang 👋
+# Hello, I'm Ratanon Sangrungsawang 👋
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.md)
 [![TH](https://img.shields.io/badge/lang-th-green.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.th.md)
 
@@ -7,7 +7,7 @@ I'm a **Computer Engineer** with a passion for technology, programming, and elec
 ## About Me
 
 - 🔧 I have experience in **Software Engineering**, including web development and backend services.
-- 🛠️ I'm proficient with tools like **Node.js**, **Next.js**, **React.js**, and **MySQL**.
+- 🛠️ I am skilled in using tools and frameworks such as **Node.js**, **Next.js** and **MySQL**.
 - 💡 I am familiar with **electronic circuits** and modules like **ESP32** and **STM32**.
 - 🚀 I enjoy learning new technologies and improving my programming and problem-solving skills.
 
