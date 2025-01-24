@@ -7,7 +7,7 @@ I'm a **Computer Engineer** with a passion for technology, programming, and elec
 ## About Me
 
 - 🔧 I have experience in **Software Engineering**, including web development and backend services.
-- 🛠️ I am skilled in using tools and frameworks such as **Node.js**, **Next.js** and **MySQL**.
+- 🛠️ I am skilled in using tools and **frameworks** such as **Node.js**, **Next.js** and **MySQL**.
 - 💡 I am familiar with **electronic circuits** and modules like **ESP32** and **STM32**.
 - 🚀 I enjoy learning new technologies and improving my programming and problem-solving skills.
 
