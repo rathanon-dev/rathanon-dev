@@ -3,63 +3,63 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.md)
 [![TH](https://img.shields.io/badge/lang-th-green.svg)](https://github.com/rathanon-dev/rathanon-dev/edit/main/README.th.md)
 
-Hello! My name is **Rathanon Sangrungsawang**, a **Computer Engineer** passionate about **technology**, **programming**, and **electronics**. I am currently seeking job opportunities in **Software Engineering**, **Hardware Engineering**, or **Production Maintenance and Development**. I have skills in programming languages such as C#, C/C++, Python, and JavaScript, as well as experience in web application development, circuit design, and more.
- 
+Hello! My name is **Rathanon Sangrungsawang**. I am a **Computer Engineer** with a passion for **technology**, **programming**, and **electronics**. I am currently looking for opportunities in **Software Engineering**, **Hardware Engineering**, or **Production Maintenance and Development**. I have experience with programming languages like C#, C/C++, Python, and JavaScript, as well as web application development, circuit design, and more.
+
 ## About Me
-- 🔧 **Software Engineering**: Experienced in web application development and backend services
-- 🛠️ **Tools and Frameworks**: Familiar with Node.js, Next.js, MySQL
+- 🔧 **Software Engineering**: Experience in developing web applications and backend services
+- 🛠️ **Tools & Frameworks**: Familiar with Node.js, Next.js, MySQL
 - 💡 **Electronics**: Circuit design and working with modules like ESP32 and STM32
-- 🚀 **Learning**: Enjoy learning new technologies and improving programming and problem-solving skills
+- 🚀 **Learning**: I enjoy learning new technologies and improving my programming and problem-solving skills
 
 ## Skills
 - **Programming Languages**: C#, C/C++, Python, JavaScript, SQL
 - **Web Development**: Node.js, Next.js, React.js
 - **Databases**: MySQL
 - **Electronics**: Circuit design, working with modules like ESP32, STM32, etc.
-- **Other Skills**: Motorcycle driving, Basic Linux, Docker, VM (Cloud VPS)
+- **Other Skills**: Motorcycle driving, basic Linux, Docker, VM (Cloud VPS)
 
 ## Education
-- **Bachelor’s Degree** in Computer Engineering, King Mongkut's Institute of Technology Ladkrabang
-- **Associate Degree** in Computer Technology, Lopburi Technical College
-- **Vocational Certificate** in Electronics, Lopburi Technical College
+- **Bachelor’s Degree** in **Computer Engineering**, King Mongkut's Institute of Technology Ladkrabang
+- **Associate Degree** in **Computer Technology**, Lopburi Technical College
+- **Vocational Certificate** in **Electronics**, Lopburi Technical College
 
 ## Work Experience
-- **Intern at Primus Co., Ltd. (April 2019 - September 2019)**  
-  Developed and maintained software assigned, gaining experience in programming and troubleshooting in a real-world environment
+- **Internship at Primus Co., Ltd. (April 2019 - September 2019)**  
+  Developed and maintained various software, gaining experience in programming and problem-solving in real-world environments.
 - **ABU Robocon 2020 - LB.TECH ROBOT Team**  
-  Participated in the ABU Robocon 2020 competition, responsible for programming the robot and web applications
+  Participated in the ABU Robocon 2020 competition, responsible for programming the robot and web application.
 - **Online Test System using Google Form API**  
-  Developed an online test system using Google Form API. The web application was built with Next.js for the frontend, and Express.js was used for API connection and database integration. This system allows users to take tests online, with results automatically submitted via Google Forms and data  stored in the backend for analysis.
-  
+  Developed an online test system using the Google Form API. This web application uses Next.js for the frontend and Express.js to connect the API to the database. The system allows users to take online tests, with results sent through Google Form and stored in the backend for further analysis.
+
 ## Projects
-- **Web Application Development**: Created and deployed web applications using Next.js and Express.js
-- **Electronics Projects**: Designed circuits and worked with modules like ESP32, STM32
+- **Web Application Development**: Developed and deployed a web application using Next.js and Express.js.
+- **Electronics Projects**: Designed circuits and worked with modules like ESP32, STM32.
 
-## Academic Works/Articles/Distinctions/Research
+## Academic Works/Articles/Awards/Research
 - **ABU Robocon 2020 Robot Competition**:  
-  Participated in the national robotics competition as a member of the LB.TECH ROBOT team  
-  Responsible for programming the robot to meet competition requirements
-- **Web Application Development Project**:  
-  Developed a web application using Next.js for the frontend and Express.js for API connection to the database
+  Participated in the national robot competition as a member of the LB.TECH ROBOT team, responsible for programming the robot to perform according to the competition tasks.
+- **Online Test System using Google Form API**:  
+  Developed an online test system using the Google Form API, which helped users take online tests. The results were sent via Google Form, and the data was stored in the backend for analysis. This system was part of my undergraduate project and was presented to the faculty as part of a technology research project.
 - **Embedded Systems Research**:  
-  Designed and developed embedded systems using microcontrollers like ESP32 and STM32
+  Designed and developed embedded systems using microcontrollers like ESP32 and STM32.
 - **Awards and Certificates**:  
-  Certificates from competitions and activities related to engineering and IT, such as ABU Robocon 2020
+  Certificates from competitions and activities related to engineering and IT, such as ABU Robocon 2020.
 
-## Readiness and Self-Development Commitment
-- Available to start immediately
-- Committed to enhancing knowledge and skills, especially in **Software Engineering** and **Hardware Engineering**
+## Work Readiness and Self-Improvement
+- Ready to start work immediately
+- Committed to continuously improving my knowledge and skills, particularly in software and hardware engineering.
 
 ## IT Infrastructure Expertise
-- Proficient in **Linux**, **Docker**, and **Virtual Machine (VM)**
+- Proficient in **Linux** and using **Docker** and **Virtual Machines (VM)**
 - Skilled in troubleshooting and maintaining servers
 
 ## Personal Qualities
-- Responsible, eager to learn, and proactive
-- Flexible with travel and able to work in Bangkok and surrounding areas
+- Responsible, proactive, and eager to learn new things
+- Committed to continuously improving knowledge and skills, particularly in software and hardware engineering
 
+## Contact
 
-- 📧 Email: [rathanon.dev@gmail.com](mailto:rathanon.dev@gmail.com)
+- 📧 Email: [minaseyux@gmail.com](mailto:minaseyux@gmail.com)
 - 🌐 GitHub: [github.com/rathanon-dev](https://github.com/rathanon-dev)
 - 🔗 LinkedIn: [ratanon](www.linkedin.com/in/ratanon-sangrungsawang-233348327)
 
