@@ -49,8 +49,7 @@ Hello! My name is **Rathanon Sangrungsawang**. I am a **Computer Engineer** with
 - Proficient in **Linux** and using **Docker** and **Virtual Machines (VM)**
 - Skilled in troubleshooting and maintaining servers
 
-## Work Readiness & Personal Qualities
-- Available to start immediately
+## Personal Qualities
 - Responsible, proactive, and eager to learn
 - Committed to continuous improvement, especially in software and hardware engineering
 
