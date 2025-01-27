@@ -44,18 +44,15 @@ Hello! My name is **Rathanon Sangrungsawang**. I am a **Computer Engineer** with
   Designed and developed embedded systems using microcontrollers like ESP32 and STM32.
 - **Awards and Certificates**:  
   Certificates from competitions and activities related to engineering and IT, such as ABU Robocon 2020.
-
-## Work Readiness and Self-Improvement
-- Ready to start work immediately
-- Committed to continuously improving my knowledge and skills, particularly in software and hardware engineering.
-
+  
 ## IT Infrastructure Expertise
 - Proficient in **Linux** and using **Docker** and **Virtual Machines (VM)**
 - Skilled in troubleshooting and maintaining servers
 
-## Personal Qualities
-- Responsible, proactive, and eager to learn new things
-- Committed to continuously improving knowledge and skills, particularly in software and hardware engineering
+## Work Readiness & Personal Qualities
+- Available to start immediately
+- Responsible, proactive, and eager to learn
+- Committed to continuous improvement, especially in software and hardware engineering
 
 ## Contact
 
