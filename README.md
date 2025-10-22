@@ -55,7 +55,7 @@ Hello! My name is **Rathanon Sangrungsawang**. I am a **Computer Engineer** with
 
 ## Contact
 
-- 📧 Email: [minaseyux@gmail.com](mailto:minaseyux@gmail.com)
+- 📧 Email: [rathanon.dev@gmail.com](mailto:rathanon.dev@gmail.com)
 - 🌐 GitHub: [github.com/rathanon-dev](https://github.com/rathanon-dev)
 - 🔗 LinkedIn: [ratanon](www.linkedin.com/in/ratanon-sangrungsawang-233348327)
 
