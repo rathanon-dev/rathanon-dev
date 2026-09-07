@@ -5,7 +5,7 @@
 **วิศวกรระบบคอมพิวเตอร์และระบบอัตโนมัติ (Computer & Automation Engineer)**
 <br><br>
 📍 พระนครศรีอยุธยา / ปทุมธานี (พร้อมย้ายที่พัก)<br>
-📞 089-413-1619 &nbsp;|&nbsp; 📧 rathanon.dev@gmail.com<br>
+ 📧 rathanon.dev@gmail.com<br>
 🌐 [github.com/rathanon-dev](https://github.com/rathanon-dev)
 
 <br clear="both">
