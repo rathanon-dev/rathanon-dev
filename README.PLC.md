@@ -1,7 +1,16 @@
-# **Rathanon Sangrungsawang**
-<p align="right">
-  <img src="https://raw.githubusercontent.com/rathanon-dev/rathanon-dev/main/pic.JPG" alt="Rathanon Sangrungsawang" width="220" style="border-radius: 8px;">
-</p>
+# Rathanon Sangrungsawang
+
+<img align="right" src="https://raw.githubusercontent.com/rathanon-dev/rathanon-dev/main/pic.JPG" alt="Rathanon Sangrungsawang" width="160" style="border-radius: 15px; margin-left: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+**Computer & Automation Engineer**
+<br><br>
+📍 Phra Nakhon Si Ayutthaya / Pathum Thani (Ready to relocate)<br>
+ 📧 rathanon.dev@gmail.com<br>
+🌐 [github.com/rathanon-dev](https://github.com/rathanon-dev)
+
+<br clear="both">
+
+---
 
 ## 📌 **Professional Summary**
 Greetings, I am **Rathanon Sangrungsawang**, a Computer Engineer passionate about Systems Architecture, Industrial Automation, and Hardware-Software Integration. Holding a Bachelor of Engineering (B.Eng.) in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang (KMITL), complemented by formal vocational education in Electronics and Computer Technology.
@@ -31,9 +40,9 @@ My professional focus is centered on **Automation Host Development**, **PLC & Eq
 ## 🎓 **Education**
 - **Bachelor of Engineering (B.Eng.) in Computer Engineering**  
   *King Mongkut's Institute of Technology Ladkrabang (KMITL)* (2021 – 2024)
-- **High Vocational Certificate (ปวส.) in Computer Technology**  
+- **High Vocational Certificate in Computer Technology**  
   *Lopburi Technical College* (2019 – 2020)
-- **Vocational Certificate (ปวช.) in Electronics**  
+- **Vocational Certificate in Electronics**  
   *Lopburi Technical College* (2015 – 2018)
 
 ---
@@ -41,17 +50,18 @@ My professional focus is centered on **Automation Host Development**, **PLC & Eq
 ## 🏆 **Professional Experience & Key Projects**
 
 ### 🏢 **Engineering Intern — Primus Co., Ltd.** *(Apr 2019 – Sep 2019)*
-- Assisted in software testing, firmware debugging, and quality verification for industrial instrumentation and sensors.
+- **Developed a C# automated testing application interfacing with industrial Calibrators and hardware, which was officially adopted and deployed into the live R&D manufacturing line to replace manual data logging.**
+- Executed firmware debugging and rigorous quality verification testing for industrial instrumentation and temperature sensors.
 - Acquired deep practical knowledge in industrial metrology, automated calibration, and process control.
 
 ### 🤖 **Lead Programmer & Robotics Engineer — ABU Robocon 2020 (LB.TECH ROBOT Team)**
-- Programmed multi-axis motion control algorithms (Mecanum Drive) using C/C++ on embedded platforms.
+- Programmed multi-axis motion control algorithms (Mecanum Drive) using C/C++ on embedded platforms, **achieving high-precision positioning during national competitions.**
 - Developed low-latency communication links between sensors, microcontrollers, and actuator drivers.
 - Executed real-time troubleshooting and electrical optimization under competitive tournament constraints.
 
 ### 🌐 **Systems Architecture & Solo-Engineered Projects**
 - **Online Examination & Data Integration System (Capstone Project):** Solo-architected a fullstack testing system with automated RESTful API processing and SQL database storage.
-- **Portable Dev Suite (Zero-Footprint Runtime):** Engineered isolated runtimes for Python, Node.js, and Rust managed by PowerShell automation on Windows without system bloat.
+- **Portable Dev Suite (Zero-Footprint Runtime):** Engineered isolated runtimes for Python, Node.js, and Rust managed by PowerShell automation on Windows without system bloat or registry pollution.
 
 ---
 
